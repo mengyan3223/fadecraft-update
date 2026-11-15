@@ -1,0 +1,3 @@
+102
+https://gh-proxy.com/https://raw.githubusercontent.com/mengyan3223/fadecraft-update/main/fadecraft-latest.apk
+1.0.9
