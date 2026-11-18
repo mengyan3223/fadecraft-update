@@ -1,5 +1,5 @@
 117
-https://xiaoshide.lanzoue.com/iN3hF4gg3
+https://xiaoshide.lanzoue.com/iNePG4ggboli
 1.0.24
-0000
+h7xu
 新增自定义壁纸，可从相册选图作为背景；壁纸高清不压缩、等比裁剪不变形；兼容第三方注入/套壳重签，不再误判退出
