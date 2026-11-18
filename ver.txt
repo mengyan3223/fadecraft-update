@@ -1,5 +1,5 @@
-117
-https://xiaoshide.lanzoue.com/iNePG4ggboli
-1.0.24
-h7xu
-新增自定义壁纸，可从相册选图作为背景；壁纸高清不压缩、等比裁剪不变形；兼容第三方注入/套壳重签，不再误判退出
+118
+https://xiaoshide.lanzoue.com/iSqSG4ghjtcd
+1.0.25
+0000
+自定义壁纸已应用到全部页面（动画列表、参数调节、选项页也铺同一张）；未选择壁纸时默认纯白背景，不再显示渐变底色
